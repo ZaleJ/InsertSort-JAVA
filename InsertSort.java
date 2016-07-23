@@ -1,8 +1,8 @@
 public class InsertSort {
     public static void main(String []args){
         int [] array={20, 25, 15, 42, 36, 16, 12};
-        insertSort(array);
-        outPut(array);
+        InsertSort.insertSort(array);
+        InsertSort.outPut(array);
 
     }
 
